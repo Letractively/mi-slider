@@ -1,0 +1,1 @@
+this is a slider designed for web
